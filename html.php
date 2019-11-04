@@ -2,22 +2,24 @@
 <html>
 	<head>
 		<title>DQdlM</title>
-	<head>
-	<body>
-		<h1><font size="10" color="blue"><center>Don Quijote de la Mancha</center></font></h1>
-		<h2><u><center>En un lugar de la mancha de cuyo nombre no me quiero acordar</center></u></h2>
-		<center><img src="https://www.roughguides.com/wp-content/uploads/2012/05/wind-mills-old-castle-consuegra-toledo-castilla-la-mancha-spain-shutterstock_1106054123.jpg" alt="Girl in a jacket" width="700" height="400"></center>
+	</head>
+	<body bgcolor="#66C7DF">
+		<h1><font size="10" color="blue"><center><b>Don Quijote de la Mancha</b></center></font></h1>
+		<p><h2><u><center>En un lugar de la mancha de cuyo nombre no me quiero acordar</center></u></h2></p>
+		<center><img src="https://www.roughguides.com/wp-content/uploads/2012/05/wind-mills-old-castle-consuegra-toledo-castilla-la-mancha-spain-shutterstock_1106054123.jpg" width="700" height="400"></center>
+		
 	<center><form>
-  Nombre:<br>
+  <b>Nombre:</b><br>
   <input type="" name="" value="">
   <br>
-  Apellido:<br>
+  <b>Apellido:</b><br>
   <input type="" name="" value="">
   <br><br>
   <input type="submit" value="Submit">
 </center></form> 
 <br>
-<center><table border="1">
+<center>
+<table border="1">
   <tr>
     <th>Provincia</th>
     <th>Ciudades</th>
@@ -46,7 +48,8 @@
     <td>Pais Vasco</td>
     <td>Bilbao</td>
   </tr>
-</center></table>
+</center>
+</table>
 	</body>
 
 </html>
