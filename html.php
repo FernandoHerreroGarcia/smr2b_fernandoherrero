@@ -16,7 +16,7 @@
   <input type="" name="" value="">
   <br><br>
   <input type="submit" value="Submit">
-</center></form> 
+</form></center> 
 <br>
 <center>
 <table border="1">
