@@ -10,10 +10,12 @@
     
 <center>
   <form>
+  </br>	
   <b>Nombre:</b><input type="" name="" value=""><br>
-  
+  </br>
   <b>Apellido:</b><input type="" name="" value=""><br>
-    </form>
+  </br> 
+  </form>
 </center> 
 <br>
 <center>
