@@ -48,8 +48,8 @@
     <td>Pais Vasco</td>
     <td>Bilbao</td>
   </tr>
-</center>
 </table>
+</center>
 	</body>
 
 </html>
