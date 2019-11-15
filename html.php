@@ -16,7 +16,7 @@
   <b>Apellido:</b><input type="" name="" value=""><br/>
   <br/> 
   <form/>
-</center> 
+<center/> 
 <br>
 <center>
 <table border="1">
