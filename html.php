@@ -9,6 +9,8 @@
 		<center><img src="https://www.roughguides.com/wp-content/uploads/2012/05/wind-mills-old-castle-consuegra-toledo-castilla-la-mancha-spain-shutterstock_1106054123.jpg" width="700" height="400"></center>
 		
 	<center><form>
+	<center>
+	<form>
   <b>Nombre:</b><br>
   <input type="" name="" value="">
   <br>
@@ -17,6 +19,8 @@
   <br><br>
   <input type="submit" value="Submit">
 </form></center> 
+	</form>
+	</center> 
 <br>
 <center>
 <table border="1">
