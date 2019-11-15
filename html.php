@@ -10,11 +10,11 @@
     
 <center>
   <form>
-  </br>	
-  <b>Nombre:</b><input type="" name="" value=""><br>
-  </br>
-  <b>Apellido:</b><input type="" name="" value=""><br>
-  </br> 
+  <br/>	
+  <b>Nombre:</b><input type="" name="" value=""><br/>
+  <br/>
+  <b>Apellido:</b><input type="" name="" value=""><br/>
+  <br/> 
   </form>
 </center> 
 <br>
