@@ -23,7 +23,7 @@
   <b>Apellido:</b><input type="" name="" value=""><br/>
   <br/> 
   <input type="submit" name="Submit">
-  <form/>
+  </form>
 </center> 
 
 <br>
