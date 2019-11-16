@@ -1,13 +1,19 @@
 <!DOCTYPE HTML> 
+
 <html>
+ 
   <head>
     <title>DQdlM</title>
   </head>
+  
   <body bgcolor="#66C7DF">
+    
     <h1><font size="10" color="blue"><center><b>Don Quijote de la Mancha</b></center></font></h1>
     <p><h2><u><center>En un lugar de la mancha de cuyo nombre no me quiero acordar</center></u></h2></p>
     <center><img src="CastillaLaMancha.jpg" width="700" height="400"></center>
     
+  </body>  
+
 <center>
   <form>
   <br/>	
@@ -15,9 +21,12 @@
   <br/>
   <b>Apellido:</b><input type="" name="" value=""><br/>
   <br/> 
+  <input type="submit" name="Submit">
   <form/>
 </center> 
+
 <br>
+
 <center>
 <table border="1">
   <tr>
@@ -50,6 +59,7 @@
   </tr>
 </table>
 </center>
-  </body>
+  
+  
 
 </html>
