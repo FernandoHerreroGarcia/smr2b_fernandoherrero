@@ -8,11 +8,12 @@
   
   <body bgcolor="#66C7DF">
     
-    <h1><font size="10" color="blue"><center><b>Don Quijote de la Mancha</b></center></font></h1>
-    <p><h2><u><center>En un lugar de la mancha de cuyo nombre no me quiero acordar</center></u></h2></p>
-    <center><img src="CastillaLaMancha.jpg" width="700" height="400"></center>
+    <center>
+    <h1><font size="10" color="blue"><b>Don Quijote de la Mancha</b></font></h1>
+    <p><h2><u>En un lugar de la mancha de cuyo nombre no me quiero acordar</u></h2></p>
+    <img src="CastillaLaMancha.jpg" width="700" height="400">
+    </center>
     
-  </body>  
 
 <center>
   <form>
@@ -60,6 +61,6 @@
 </table>
 </center>
   
-  
+ </body>  
 
 </html>
