@@ -9,7 +9,7 @@
   <body bgcolor="#66C7DF">
     
     <center>
-    <h1><font size="10" color="blue">Don Quijote de la Mancha</font></h1>
+    <h1><font size="10" face="verdana" color="blue"><i>Don Quijote de la Mancha</i></font></h1>
     <p><h2><u>En un lugar de la mancha de cuyo nombre no me quiero acordar</u></h2></p>
     <img src="CastillaLaMancha.jpg" width="700" height="400">
     </center>
