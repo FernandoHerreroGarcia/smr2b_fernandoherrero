@@ -10,8 +10,8 @@
     
     <center>
     <h1><font size="10" face="verdana" color="blue"><i>Don Quijote de la Mancha</i></font></h1>
-    <h2><p><u>En un lugar de la mancha de cuyo nombre no me quiero acordar</u></p></h2>
-    <img src="CastillaLaMancha.jpg" width="700" height="400">
+    <h2><u>En un lugar de la mancha de cuyo nombre no me quiero acordar</u></h2>
+    <img src="CastillaLaMancha.jpg" alt="Molinos" width="700" height="400">
     </center>
     
 
