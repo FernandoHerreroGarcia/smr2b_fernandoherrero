@@ -14,19 +14,23 @@
     <img src="CastillaLaMancha.jpg" alt="Molinos" width="700" height="400">
     </center>
     
+<br/> 
+<br/>
 
 <center>
   <form>
-  <br/>	
-  <b>Nombre:</b><input type="" name="" value="">
-  <br/>
-  <b>Apellido:</b><input type="" name="" value="">
-  <br/> 
+
+  <p><b>Nombre:</b><input type="" name="" value=""><br/></p>
+  
+  <p><b>Apellido:</b><input type="" name="" value=""><br/></p>
+   
   <input type="submit" name="Submit">
+  
   </form>
 </center> 
 
-<br>
+<br/>
+<br/>
 
 <center>
 <table border="1">
