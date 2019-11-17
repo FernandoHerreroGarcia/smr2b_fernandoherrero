@@ -18,9 +18,9 @@
 <center>
   <form>
   <br/>	
-  <b>Nombre:</b><input type="" name="" value=""><br/>
+  <b>Nombre:</b><input type="" name="" value="">
   <br/>
-  <b>Apellido:</b><input type="" name="" value=""><br/>
+  <b>Apellido:</b><input type="" name="" value="">
   <br/> 
   <input type="submit" name="Submit">
   </form>
