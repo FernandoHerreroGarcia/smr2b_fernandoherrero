@@ -33,7 +33,7 @@
 <br/>
 
 <center>
-<table border="1" style="width:100%">
+<table border="1" style="width:30%">
   
   <tr>
     <th>Provincia</th>
