@@ -26,8 +26,8 @@
    
   <input type="submit" name="Submit">
   
-  </form>
-</center> 
+  <form/>
+<center/> 
 
 <br/>
 <br/>
