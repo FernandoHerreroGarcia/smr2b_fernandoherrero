@@ -20,9 +20,9 @@
 <center>
   <form>
 
-  <p><b>Nombre:</b><input type="" name="" value=""><br/></p>
+  <p><b>Nombre:</b><input type="" name="" value=""><br/><p/>
   
-  <p><b>Apellido:</b><input type="" name="" value=""><br/></p>
+  <p><b>Apellido:</b><input type="" name="" value=""><br/><p/>
    
   <input type="submit" name="Submit">
   
