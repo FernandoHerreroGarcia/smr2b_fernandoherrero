@@ -65,6 +65,6 @@
 </table>
 </center>
   
- </body>  
+ <body/>  
 
-</html>
+<html/>
