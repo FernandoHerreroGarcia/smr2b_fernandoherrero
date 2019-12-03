@@ -1,11 +1,11 @@
-#Enlaces a perfiles de Github del profesor y de los compañeros
+#Enlaces a perfiles de Github del profesor y de los compañeros</br>
+</br>
 
-
-https://github.com/FernandoHerreroGarcia
-https://github.com/MarioPerezRodriguez
-https://github.com/MiguelCalderonPuertas
-https://github.com/CesarC27
-https://github.com/JesusPereez7
-https://github.com/ivanvarela01
-
-https://github.com/dblancoformacion
+https://github.com/FernandoHerreroGarcia</br>
+https://github.com/MarioPerezRodriguez</br>
+https://github.com/MiguelCalderonPuertas</br>
+https://github.com/CesarC27</br>
+https://github.com/JesusPereez7</br>
+https://github.com/ivanvarela01</br>
+</br>
+https://github.com/dblancoformacion</br>
